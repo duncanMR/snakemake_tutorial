@@ -1,0 +1,4 @@
+.snakemake/
+*.fastq.gz
+*.fa.gz
+*.fa.gz.fai
