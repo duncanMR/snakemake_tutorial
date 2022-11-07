@@ -1,5 +1,6 @@
 {
-    "reference": "data/reference/Pf3D7_v3.fa.gz",
-    "fastq_filename_template": "data/reads/subsampled/{ID}_{read}.fastq.gz",
-    "samples": "samples.tsv"
+    "reference_name": "Pf3D7_v3",
+    "fastq_filename_template": "data/reads/{ENA}_{read}.fastq.gz",
+    "samples": "samples.tsv",
+    "regions": "Pf3D7_02_v3:616190-656190 Pf3D7_02_v3:779288-859288 Pf3D7_11_v3:1023035-1081305"
 }
